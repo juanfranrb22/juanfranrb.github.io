@@ -1,0 +1,103 @@
+
+
+
+  header {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  nav {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  nav a {
+
+    color: black;
+    padding: 5px;
+  }
+
+  section {
+    margin: 20px;
+    text-align: justify;
+  }
+
+  footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+
+.curso h3 {
+    font-size: 2rem;
+    margin-top: 1.5rem;
+  }
+  
+
+  .boton {
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+  
+  .boton a {
+    display: inline-block;
+    background-color: #1e90ff;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .boton a:hover {
+    background-color: #007bff;
+  }
+  
+
+  nav a {
+    display: block;
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  nav a:hover {
+    background-color: #f5f5f5;
+  }
+  
+ 
+  #sobre-nosotros {
+    background-color: #f5f5f5;
+    padding: 4rem;
+  }
+  
+  #sobre-nosotros h2 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  
+  #sobre-nosotros p {
+ 
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
+
+  .redes-sociales img {
+    width: 30px;
+    height: 30px;
+   
+ 
+  }
+  .curso img {
+    max-width: 100%;
+  }
+  
+ 
